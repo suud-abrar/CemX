@@ -79,7 +79,7 @@ void place(String inputs) {
     showMessageDialog(null, getrows);
   }
 }  
-
+//this is a comment
 void typeofcementorbranch(String inputs) {
   indexphone=table4.getRowCount()-1;
   if (table4.getString(indexphone, "Factoryp").equals( "factory")) {
